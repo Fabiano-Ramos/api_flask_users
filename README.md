@@ -16,7 +16,7 @@ Uma API RESTful desenvolvida com **Python + Flask**, voltada para o gerenciament
 ## 📸 Demonstração
 
 ### ▶️ Requisição com Postman
-![API rodando com sucesso](./assets/api_postman_demo.png)
+![API rodando com sucesso](api_postman_demo.png)
 
 ---
 
